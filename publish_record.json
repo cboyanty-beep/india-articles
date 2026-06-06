@@ -2,7 +2,7 @@
   "site": {
     "title": "📖 印度系列",
     "url": "https://cboyanty-beep.github.io/india-articles/",
-    "description": "印度人全球渗透系列文章 - 数据驱动深度分析"
+    "description": "印度全球渗透 + 日本军事分析系列"
   },
   "articles": [
     {
@@ -37,6 +37,32 @@
       "updated": "2026-06-06",
       "data_sources": "S&P Global / FEC / US Census / IRCC Canada / Wikipedia",
       "summary": "三阶段递进模型：H1B人才管道→CEO资本控制→PAC政治影响力"
+    },
+    {
+      "id": 4,
+      "title": "凌晨5:59，三菱重工在赶工第37发导弹——日本正在为台海做什么准备",
+      "url": "20260606-japan-article-final.html",
+      "category": "日本篇",
+      "emoji": "🇯🇵",
+      "published": "2026-06-06",
+      "updated": "2026-06-06",
+      "data_sources": "日本防卫省 / 三菱重工 / 美菲军演公开报道 / NHK",
+      "summary": "日本2026年对华军事准备全景：58亿军费、900公里导弹、全国调兵西南诸岛",
+      "md_file": "20260606-japan-article-final.md",
+      "html_file": "20260606-japan-article-final.html"
+    },
+    {
+      "id": 5,
+      "title": "58亿军费、900公里导弹、全国调兵：日本2026年对华备战的9个数据",
+      "url": "20260606-japan-war-preparation-v3.html",
+      "category": "日本篇",
+      "emoji": "🗾",
+      "published": "2026-06-06",
+      "updated": "2026-06-06",
+      "data_sources": "日本防卫省 / 公开新闻报道 / 2026香格里拉对话",
+      "summary": "纯数据版：9个关键数字解读日本2026年对华军事部署",
+      "md_file": "20260606-japan-war-preparation-v3.md",
+      "html_file": "20260606-japan-war-preparation-v3.html"
     }
   ]
 }
