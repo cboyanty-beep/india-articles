@@ -1,0 +1,42 @@
+{
+  "site": {
+    "title": "📖 印度系列",
+    "url": "https://cboyanty-beep.github.io/india-articles/",
+    "description": "印度人全球渗透系列文章 - 数据驱动深度分析"
+  },
+  "articles": [
+    {
+      "id": 1,
+      "title": "印度人全球扩张：3542万侨民如何重塑世界",
+      "url": "article-1.html",
+      "category": "全球篇",
+      "emoji": "🌍",
+      "published": "2026-06-06",
+      "updated": "2026-06-06",
+      "data_sources": "Wikipedia Indian diaspora / USCIS H1B FY2024 / MEA 2026.1",
+      "summary": "全球3542万印度侨民的分布、H1B签证垄断、CEO管道、政治影响力全景分析"
+    },
+    {
+      "id": 2,
+      "title": "印度人在中国：56,131人的隐形存在",
+      "url": "article-2.html",
+      "category": "中国篇",
+      "emoji": "🇨🇳",
+      "published": "2026-06-06",
+      "updated": "2026-06-06",
+      "data_sources": "MEA Population of Overseas Indians 2026.1 / NC",
+      "summary": "基于MEA官方数据的印度在华人口全景——不是大撤退，是稳定存在"
+    },
+    {
+      "id": 3,
+      "title": "印度人全球渗透的「三重门」：人才 → 资本 → 权力",
+      "url": "article-3.html",
+      "category": "战略篇",
+      "emoji": "⚔️",
+      "published": "2026-06-06",
+      "updated": "2026-06-06",
+      "data_sources": "S&P Global / FEC / US Census / IRCC Canada / Wikipedia",
+      "summary": "三阶段递进模型：H1B人才管道→CEO资本控制→PAC政治影响力"
+    }
+  ]
+}
