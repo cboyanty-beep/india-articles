@@ -1,3 +1,7 @@
+---
+title: "DeepSeek V4.1-Flash 接入记录 (2026-09-10)"
+---
+
 === DeepSeek V4.1-Flash 接入记录 ===
 日期: 2026-09-10
 机器: 便携版 Hermes (HERMES_HOME = G:\hermes-portable\hermes)
